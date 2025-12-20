@@ -6,11 +6,14 @@
 [![Android](https://img.shields.io/badge/Android-5.0%2B-brightgreen)](https://www.android.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dongfeng-aeolus/multimedia-scripts/pulls)
 
-> **Автоматическая установка и запуск приложений на штатные магнитолы Dongfeng Aeolus Shine GS / Shine / Mage без root-прав**
+**Автоматическая установка и запуск приложений на штатные магнитолы Dongfeng Aeolus Shine GS / Shine / Mage без root-прав**
+
+
 [![Видео: Обзор функционала](https://img.youtube.com/vi/sT51DPNyhNM/0.jpg)](https://www.youtube.com/watch?v=sT51DPNyhNM)
 
 Кликните по изображению, чтобы открыть видео на YouTube.
- 
+
+
 ## 📋 Содержание
 - [Преимущества](#-преимущества)
 - [Поддерживаемые модели](#-поддерживаемые-модели)
