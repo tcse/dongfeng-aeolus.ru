@@ -7,7 +7,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/dongfeng-aeolus/multimedia-scripts/pulls)
 
 > **Автоматическая установка и запуск приложений на штатные магнитолы Dongfeng Aeolus Shine GS / Shine / Mage без root-прав**
-https://www.youtube.com/watch?v=sT51DPNyhNM 
+>
+.. image:: https://img.youtube.com/vi/sT51DPNyhNM/maxresdefault.jpg
+    :alt: IMAGE ALT TEXT HERE
+    :target: https://www.youtube.com/watch?v=sT51DPNyhNM
+ 
 ## 📋 Содержание
 - [Преимущества](#-преимущества)
 - [Поддерживаемые модели](#-поддерживаемые-модели)
